@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "description\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dtext in \u001b[2~dsd\u001b[2~\u001b[2~fdescriptions\u001b[Ds\u001b[Dd\u001b[D\u001b[2~ blablabla",
+  "main": "mishen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "llEngi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mqtt": "^2.18.8"
+  }
+}
